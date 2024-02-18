@@ -1,0 +1,25 @@
+.home-frame{
+    width: 100vw;
+    height: 100vh;
+    border: 1px white;
+    scroll-behavior: smooth;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+  }
+  .app{
+    height: 60vh;
+    width: 100vw;
+    margin-top: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+  }
+  .box{
+    height: 50vh;
+    width: 100vw;
+    margin-top: 20px;
+   
+  }
