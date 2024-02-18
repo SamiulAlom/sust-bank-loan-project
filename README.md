@@ -86,5 +86,6 @@ To run this project, you will need to add the following environment variables to
 
 
 ## Screenshots
+<img width="1257" alt="Screenshot 2024-02-18 at 7 19 38 AM" src="https://github.com/SamiulAlom/sust-bank-loan-project/assets/99759729/48db4bb5-5b84-4340-b592-c855484f4ed5">
 
 ![App Screenshot](https://i.imgur.com/I1WyJE0.png)
